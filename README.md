@@ -1,6 +1,6 @@
 ### Uploader_de_imagens <br />
 Este projeto teve como objetivo criar um uploader de imagens usando JavaScript
-<br /><br />
+<br />
 ## Como utilizar:
 1- Carregue as imagens na pasta "upload" e apenas execute o aplicativo. <br />
 2- Clique no ícone com seta e selecione a pasta "upload" para fazer upload de imagens no navegador.
